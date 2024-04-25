@@ -21,7 +21,7 @@
 <a href="https://github.com/DilanBedoya/Banco_Java" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </p>
-<p>En este repositorio encontrarás un simulador de un banco realizado en Java</p>
+<p>Este proyecto se fundamenta en un simulador bancario que posibilita la creación de cuentas, el inicio de sesión, así como la realización de depósitos y retiros, todo ello conectado a una base de datos.</p>
 </div>
                                                                                       
 </td>
@@ -38,7 +38,8 @@
 </a>
 
 </p>
-</p>El siguiente siguiente repositorio está basado en la Realización de un DataLake, el cual incluye temas como videojuegos, deportes, conciertos a nivel global</p>
+</p>
+El siguiente repositorio se centra en la creación de un DataLake que abarca una variedad de temas, que van desde videojuegos hasta deportes y conciertos a nivel global.</p>
 </div>                                                             
 </table>                                                                                                                                                            
 </table>                                                                                 
