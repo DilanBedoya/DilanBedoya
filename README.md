@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Dilan!</a> 👋</h1>
+<img src="https://i.imgur.com/pifdxgA.jpeg" align="right">
 </div>
-<img src="https://i.imgur.com/pifdxgA.jpeg" align="center">
 
 ## Sobre mi
 - ⭐ Estudiante en la Escuela Politécnica Nacional ⭐ 
