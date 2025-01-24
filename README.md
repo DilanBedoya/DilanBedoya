@@ -16,7 +16,7 @@
 <td width="50%">
 <h3 align="center">Simulador de Banco</h3>
 <div align="center">
-<a href="https://github.com/DilanBedoya/Banco_Java" target="_blank"><img src="https://i.imgur.com/RFxK9Ue.png" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/DilanBedoya/Banco_Java" target="_blank"><img src="https://i.imgur.com/Vlbtx4p.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/DilanBedoya/Banco_Java" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -30,7 +30,7 @@
                <br>
 <h3 align="center">DataLake-Análisis</h3>
 <div align="center">                                       
-<a href="https://github.com/DilanBedoya/Analisis_DataLake" target="_blank"><img src="https://i.imgur.com/RiiwOHz.jpeg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/DilanBedoya/Analisis_DataLake" target="_blank"><img src="https://i.imgur.com/Ska4dT8.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/DilanBedoya/Analisis_DataLake" target="_blank">
