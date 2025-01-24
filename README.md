@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hola, soy Dilan!</a> 👋</h1>
-<img src="https://i.imgur.com/pifdxgA.jpeg" align="center">
+<img src="https://i.imgur.com/NA2OQ5m.jpeg" align="center">
 </div>
 
 ## Sobre mi
